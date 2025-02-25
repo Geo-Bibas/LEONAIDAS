@@ -1,12 +1,14 @@
 from pyspark.sql import SparkSession
 
-jdbc_url = "jdbc:postgresql://localhost:5432/local_student_grades"
+jdbc_url = "jdbc:postgresql://192.168.20.11:5432/demo_db"
 properties = {
     "user": "postgres", 
-    "password": "password",  
+    "password": "postgres",  
     "driver": "org.postgresql.Driver",
     "fetchsize": "10000"
 }
+
+#DOWNLOAD FROM ORACLE
 postgres_driver_path = "C:\postgresql-42.7.5.jar"
 
 def extract(jdbc_url, table_name, properties, postgres_driver_path):
@@ -31,7 +33,7 @@ def extract(jdbc_url, table_name, properties, postgres_driver_path):
     return df, spark
 
 # Extract data once
-raw_df, spark = extract(jdbc_url, "raw_student_grades", properties, postgres_driver_path)
+raw_df, spark = extract(jdbc_url, "filtered_data_with_id", properties, postgres_driver_path)
 
 # Check the number of rows
 row_count = raw_df.count()

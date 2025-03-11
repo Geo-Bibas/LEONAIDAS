@@ -1,5 +1,5 @@
 from pyspark.sql import SparkSession
-from utilities.filtersem import SchoolYearProcessor
+from scripts.filtersem import SchoolYearProcessor
 from utilities.cleaner import DataCleaner
 import shutil
 import os

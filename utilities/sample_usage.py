@@ -36,12 +36,14 @@ def main():
         processed_df.groupBy("grade_classification").count().show()
 
         processed_df.printSchema()
-        processed_df.show(5)
+        processed_df.show(50)
         
         
         
     finally:
+        print(f"Total records: {processed_df.count()}")
         print("TESTING SUCCESSFUL")
+        
         # Clean up
         spark.stop()
 

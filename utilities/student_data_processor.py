@@ -58,6 +58,8 @@ class StudentDataProcessor:
         
         # Grade processing
         df = self.grade_cleaner.process_grades(df)
+        df = self.grade_cleaner._remove_no_grades(df)
+        df = self.grade_cleaner._remove_droppped_grades(df)
         
         # Final transformations
         return self.academic_cleaner.create_yearsem_order(df)

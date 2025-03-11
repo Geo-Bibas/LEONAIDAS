@@ -1,3 +1,4 @@
+from datetime import datetime
 from pyspark.sql import DataFrame
 from pyspark.sql.functions import (
     col, when, regexp_extract, lit, coalesce, isnull, 
@@ -186,4 +187,12 @@ class GradeDataCleaner(BaseDataCleaner):
     
     def _cast_numeric_columns(self, df: DataFrame) -> DataFrame:
         return df.withColumn("credits", df.credits.cast("int"))\
-                .withColumn("grade_numeric", df.grade_numeric.cast(DecimalType(5, 2))) 
+                .withColumn("grade_numeric", df.grade_numeric.cast(DecimalType(5, 2)))
+    
+    def _remove_no_grades(self, df: DataFrame) -> DataFrame:
+        current_year = datetime.now().year
+        return df.filter(
+            ~((col('grade_final') == 'INC') & (col('grade_reexam').isNull()) & (col('schoolyear').contains(str(current_year))))
+        )
+    def _remove_droppped_grades(self, df: DataFrame) -> DataFrame:
+        return df.filter((col('grade_numeric') != 0))

@@ -2,12 +2,13 @@
 Sample Usage of SchoolYearProcessor Class
 """
 from pyspark.sql import SparkSession
-from utilities.filtersem import SchoolYearProcessor
+from scripts.filtersem import SchoolYearProcessor
 
-jdbc_url = "jdbc:postgresql://192.168.20.11:5432/demo_db"
+#jdbc_url = "jdbc:postgresql://192.168.20.11:5432/demo_db"
+jdbc_url = "jdbc:postgresql://localhost:5432/local_student_grades"
 properties = {
     "user": "postgres", 
-    "password": "postgres",  
+    "password": "password",  
     "driver": "org.postgresql.Driver",
     "fetchsize": "10000"
 }
@@ -37,7 +38,7 @@ def extract(jdbc_url, table_name, properties, postgres_driver_path):
     return df, spark
 
 # Extract data once
-raw_df, spark = extract(jdbc_url, "filtered_data_with_id", properties, postgres_driver_path)
+raw_df, spark = extract(jdbc_url, "raw_student_grades", properties, postgres_driver_path)
 
 # Initialize the class with the raw DataFrame
 processor = SchoolYearProcessor(raw_df)
@@ -47,3 +48,5 @@ output_df = processor.merge_year_sem()
 
 # Show the results
 output_df.show()
+output_df.printSchema()
+output_df.count()

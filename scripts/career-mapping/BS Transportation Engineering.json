@@ -1,0 +1,169 @@
+{
+  "program": "BS Transportation Engineering",
+  "courses": [
+    {
+      "course": "Introduction to Engineering",
+      "careers": ["Transportation Engineer", "Civil Engineer", "Transportation Planner", "Transportation Project Manager", "Construction Engineer/Manager", "Research Engineer"]
+    },
+    {
+      "course": "Computer Programming 1",
+      "careers": ["ITS (Intelligent Transportation Systems) Engineer", "Transportation Modeler", "Data Analyst", "GIS (Geographic Information Systems) Specialist", "Simulation Specialist"]
+    },
+    {
+      "course": "Engineering Drawing",
+      "careers": ["Transportation Engineer", "Highway Engineer", "Railroad Engineer", "Geometric Design Engineer", "Civil Engineer"]
+    },
+    {
+      "course": "Design of Transportation Infrastructures",
+      "careers": ["Transportation Engineer", "Highway Engineer", "Railroad Engineer", "Structural Engineer", "Civil Engineer", "Geometric Design Engineer"]
+    },
+    {
+      "course": "Transportation Laws and Policy Development",
+      "careers": ["Transportation Policy Analyst", "Transportation Planner", "Transportation Project Manager", "Government Agencies"]
+    },
+    {
+      "course": "Mass Transportation System",
+      "careers": ["Public Transportation Engineer", "Transportation Planner", "Traffic Engineer", "Transportation Operations Engineer", "Transportation Project Manager"]
+    },
+    {
+      "course": "Transportation Planning and Design",
+      "careers": ["Transportation Planner", "Transportation Engineer", "Urban Planner", "Public Transportation Engineer", "Geometric Design Engineer"]
+    },
+    {
+      "course": "Transportation Engineering Economics and Finance",
+      "careers": ["Transportation Planner", "Transportation Project Manager", "Transportation Policy Analyst", "Government Agencies", "Consulting"]
+    },
+    {
+      "course": "Pavement Maintenance and Management",
+      "careers": ["Pavement Engineer", "Highway Engineer", "Transportation Engineer", "Construction Engineer/Manager"]
+    },
+    {
+      "course": "Transportation Project Management",
+      "careers": ["Transportation Project Manager", "Construction Engineer/Manager", "Transportation Engineer", "Consulting", "Government Agencies"]
+    },
+    {
+      "course": "Transportation Engineering Design Project 1",
+      "careers": ["Transportation Engineer", "Highway Engineer", "Railroad Engineer", "Civil Engineer", "Structural Engineer", "Geometric Design Engineer", "Transportation Project Manager"]
+    },
+    {
+      "course": "Transportation Engineering Design Project 2",
+      "careers": ["Transportation Engineer", "Highway Engineer", "Railroad Engineer", "Civil Engineer", "Structural Engineer", "Geometric Design Engineer", "Transportation Project Manager"]
+    },
+    {
+      "course": "Engineering Utilities 1",
+      "careers": ["Civil Engineer", "Municipal Engineer", "Construction Engineer/Manager", "Transportation Engineer"]
+    },
+    {
+      "course": "Computer-Aided Design",
+      "careers": ["Transportation Engineer", "Highway Engineer", "Railroad Engineer", "Geometric Design Engineer", "Civil Engineer", "Structural Engineer"]
+    },
+    {
+      "course": "Statics of Rigid Bodies",
+      "careers": ["Structural Engineer", "Civil Engineer", "Transportation Engineer", "Highway Engineer", "Railroad Engineer"]
+    },
+    {
+      "course": "Dynamics of Rigid Bodies",
+      "careers": ["Structural Engineer", "Civil Engineer", "Transportation Engineer", "Highway Engineer", "Railroad Engineer"]
+    },
+    {
+      "course": "General Surveying I",
+      "careers": ["Civil Engineer", "Transportation Engineer", "Highway Engineer", "Construction Engineer/Manager"]
+    },
+    {
+      "course": "Transportation Engineering Orientation",
+      "careers": ["Transportation Engineer", "Transportation Planner", "Transportation Policy Analyst"]
+    },
+    {
+      "course": "Strength of Materials",
+      "careers": ["Structural Engineer", "Civil Engineer", "Transportation Engineer", "Highway Engineer", "Railroad Engineer"]
+    },
+    {
+      "course": "Construction Materials and Testing",
+      "careers": ["Construction Engineer/Manager", "Pavement Engineer", "Civil Engineer", "Transportation Engineer", "Geotechnical Engineer"]
+    },
+    {
+      "course": "Hydraulics",
+      "careers": ["Civil Engineer", "Transportation Engineer", "Highway Engineer", "Railroad Engineer"]
+    },
+    {
+      "course": "Engineering Economics",
+      "careers": ["Transportation Planner", "Transportation Project Manager", "Transportation Policy Analyst", "Consulting"]
+    },
+    {
+      "course": "General Surveying II",
+      "careers": ["Civil Engineer", "Transportation Engineer", "Highway Engineer", "Construction Engineer/Manager"]
+    },
+    {
+      "course": "Numerical Solutions to Transportation Engineering",
+      "careers": ["Transportation Modeler", "Data Analyst", "ITS (Intelligent Transportation Systems) Engineer", "Simulation Specialist", "Research Engineer"]
+    },
+    {
+      "course": "Fundamentals of Traffic Engineering",
+      "careers": ["Traffic Engineer", "Transportation Planner", "Transportation Operations Engineer", "Transportation Safety Engineer", "Transportation Engineer"]
+    },
+    {
+      "course": "Structural Theory",
+      "careers": ["Structural Engineer", "Civil Engineer", "Transportation Engineer", "Highway Engineer", "Railroad Engineer"]
+    },
+    {
+      "course": "Geotechnical Engineering I: Soil Mechanics",
+      "careers": ["Geotechnical Engineer", "Civil Engineer", "Transportation Engineer", "Highway Engineer", "Railroad Engineer"]
+    },
+    {
+      "course": "Engineering Management",
+      "careers": ["Transportation Project Manager", "Construction Engineer/Manager", "Transportation Engineer", "Consulting"]
+    },
+    {
+      "course": "Geometric Design of Highways",
+      "careers": ["Geometric Design Engineer", "Highway Engineer", "Transportation Engineer", "Civil Engineer"]
+    },
+    {
+      "course": "Railway Engineering",
+      "careers": ["Railroad Engineer", "Transportation Engineer", "Civil Engineer", "Structural Engineer", "Railways Manager"]
+    },
+    {
+      "course": "Traffic Engineering Laboratory",
+      "careers": ["Traffic Engineer", "Transportation Operations Engineer", "Transportation Safety Engineer", "Transportation Engineer", "Data Analyst"]
+    },
+    {
+      "course": "Transport, Energy and the Environment",
+      "careers": ["Transportation Planner", "Transportation Policy Analyst", "Transportation Engineer", "Government Agencies"]
+    },
+    {
+      "course": "Principles of Structural Analysis and Design",
+      "careers": ["Structural Engineer", "Civil Engineer", "Transportation Engineer", "Highway Engineer", "Railroad Engineer"]
+    },
+	{
+      "course": "Fundamentals of Ports and Harbor Engineering",
+      "careers": ["Port and Harbor Engineer", "Transportation Engineer", "Civil Engineer", "Structural Engineer"]
+    },
+    {
+      "course": "Technopreneurship",
+      "careers": ["Entrepreneurship", "Consulting", "Transportation Project Manager"]
+    },
+    {
+      "course": "Traffic Operations and Management",
+      "careers": ["Traffic Operations Engineer", "Traffic Engineer", "ITS (Intelligent Transportation Systems) Engineer", "Transportation Engineer"]
+    },
+    {
+      "course": "Transportation Networks and Optimization",
+      "careers": ["Transportation Planner", "Transportation Modeler", "ITS (Intelligent Transportation Systems) Engineer", "Transportation Engineer", "Traffic Engineer"]
+    },
+    {
+      "course": "Traffic Safety Management",
+      "careers": ["Transportation Safety Engineer", "Traffic Engineer", "Transportation Engineer", "Transportation Planner", "Data Analyst"]
+    },
+    {
+      "course": "Pavement Design and Testing",
+      "careers": ["Pavement Engineer", "Highway Engineer", "Transportation Engineer", "Construction Engineer/Manager"]
+    },
+    {
+      "course": "Railways Management",
+      "careers": ["Railways Manager", "Railroad Engineer", "Transportation Planner", "Transportation Project Manager"]
+    },
+    {
+      "course": "Research Methods",
+      "careers": ["Research Engineer", "Transportation Planner", "Transportation Policy Analyst", "Data Analyst"]
+    }
+  ]
+}

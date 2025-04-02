@@ -85,19 +85,14 @@ class AcademicDataCleaner(BaseDataCleaner):
         df = df.withColumn(
             "start_year", 
             split(col("schoolyear"), "-")[0].cast("int")
-        ).withColumn(
-            "sem_order",
-            when(col("semester") == "FIRST", 1)
-            .when(col("semester") == "SECOND", 2)
-            .when(col("semester") == "SUMMER", 3)
         )
         
         df = df.withColumn(
-            "yearsem", 
+            "year_sem", 
             concat_ws("-", col("schoolyear"), col("semester"))
         )
         
-        return df.orderBy("srcode", "start_year", "sem_order")
+        return df.orderBy("srcode", "start_year")
     
     @staticmethod
     def get_valid_schoolyears(df: DataFrame) -> DataFrame:
@@ -114,14 +109,14 @@ class AcademicDataCleaner(BaseDataCleaner):
         # Ensure proper data types
         program_spark_df = program_spark_df.select(
             col("program").alias("program_name"),
-            col("program_id").cast(StringType())
+            col("program_id").cast(IntegerType())
         )
 
         # Convert mapping to a dictionary
         program_mapping = {row["program_name"]: row["program_id"] for row in program_spark_df.collect()}
 
         # Define UDF to map program names to program IDs
-        get_program_id_udf = udf(lambda program_name: program_mapping.get(program_name, None), StringType())
+        get_program_id_udf = udf(lambda program_name: program_mapping.get(program_name, None), IntegerType())
 
         # Improved DataFrame validation
         if not isinstance(df, DataFrame):

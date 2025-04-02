@@ -1,0 +1,169 @@
+{
+  "program": "BS Sanitary Engineering",
+  "courses": [
+    {
+      "course": "Introduction to Engineering",
+      "careers": ["Project Engineer", "Engineering Management", "Technopreneur/Startup Founder"]
+    },
+    {
+      "course": "Computer Programming 1",
+      "careers": ["Design Engineer (Water/Wastewater)", "Environmental Consultant", "Research Engineer"]
+    },
+    {
+      "course": "Engineering Drawing",
+      "careers": ["Design Engineer (Water/Wastewater)", "Construction Engineer/Manager", "Civil Engineer (with Sanitary Focus)"]
+    },
+    {
+      "course": "SE Project Design 1",
+      "careers": ["Project Engineer", "Construction Engineer/Manager", "Sanitary Engineer", "Design Engineer (Water/Wastewater)"]
+    },
+    {
+      "course": "SE Laws, Contracts and Ethics",
+      "careers": ["Environmental Consultant", "Environmental Compliance Officer", "Environmental Engineer"]
+    },
+    {
+      "course": "Construction Methods and Project Management",
+      "careers": ["Construction Engineer/Manager", "Project Engineer", "Engineering Management"]
+    },
+    {
+      "course": "Technopreneurship",
+      "careers": ["Technopreneur/Startup Founder", "Engineering Management", "Project Engineer"]
+    },
+    {
+      "course": "Environmental Engineering Laboratory",
+      "careers": ["Research Engineer", "Environmental Scientist", "Laboratory Technician/Manager"]
+    },
+    {
+      "course": "SE Project Design 2",
+      "careers": ["Project Engineer", "Construction Engineer/Manager", "Sanitary Engineer", "Design Engineer (Water/Wastewater)"]
+    },
+    {
+      "course": "Sanitary Science, Plumbing and Fire Protection as Applied to Buildings",
+      "careers": ["Plumbing Design Engineer", "Sanitary Engineer", "Public Health Engineer"]
+    },
+    {
+      "course": "Water Purification Process Design",
+      "careers": ["Water/Wastewater Treatment Plant Engineer", "Design Engineer (Water/Wastewater)", "Sanitary Engineer", "Environmental Engineer"]
+    },
+    {
+      "course": "Fundamentals of Surveying",
+      "careers": ["Civil Engineer (with Sanitary Focus)", "Construction Engineer/Manager", "Drainage Engineer"]
+    },
+    {
+      "course": "Computer-Aided Design",
+      "careers": ["Design Engineer (Water/Wastewater)", "Civil Engineer (with Sanitary Focus)", "Construction Engineer/Manager"]
+    },
+    {
+      "course": "Statics of Rigid Bodies",
+      "careers": ["Civil Engineer (with Sanitary Focus)", "Construction Engineer/Manager", "Design Engineer (Water/Wastewater)"]
+    },
+    {
+      "course": "Dynamics of Rigid Bodies",
+      "careers": ["Civil Engineer (with Sanitary Focus)", "Construction Engineer/Manager", "Design Engineer (Water/Wastewater)"]
+    },
+    {
+      "course": "Geology",
+      "careers": ["Geotechnical Engineer 1 (Soil Mechanics)", "Environmental Engineer", "Civil Engineer (with Sanitary Focus)"]
+    },
+    {
+      "course": "Sanitary Engineering Orientation",
+      "careers": ["Sanitary Engineer", "Environmental Engineer", "Public Health Engineer"]
+    },
+    {
+      "course": "Environmental and Sanitary Chemistry",
+      "careers": ["Environmental Scientist", "Laboratory Technician/Manager", "Water/Wastewater Treatment Plant Engineer"]
+    },
+    {
+      "course": "Strength of Materials",
+      "careers": ["Civil Engineer (with Sanitary Focus)", "Construction Engineer/Manager", "Design Engineer (Water/Wastewater)"]
+    },
+    {
+      "course": "Engineering Utilities 1",
+      "careers": ["Construction Engineer/Manager", "Design Engineer (Water/Wastewater)", "Plumbing Design Engineer"]
+    },
+    {
+      "course": "Environmental Science and Engineering",
+      "careers": ["Environmental Engineer", "Environmental Scientist", "Environmental Consultant"]
+    },
+    {
+      "course": "Engineering Utilities 2",
+      "careers": ["Construction Engineer/Manager", "Design Engineer (Water/Wastewater)", "Plumbing Design Engineer"]
+    },
+    {
+      "course": "Numerical Solutions to SE Problems (Advanced Mathematics)",
+      "careers": ["Research Engineer", "Design Engineer (Water/Wastewater)", "Water/Wastewater Treatment Plant Engineer"]
+    },
+    {
+      "course": "Microbiology and Parasitology for Environmental Engineers",
+      "careers": ["Public Health Engineer", "Environmental Scientist", "Laboratory Technician/Manager"]
+    },
+    {
+      "course": "Hydrology",
+      "careers": ["Hydrologist", "Drainage Engineer", "Civil Engineer (with Sanitary Focus)"]
+    },
+    {
+      "course": "Structural Theory",
+      "careers": ["Civil Engineer (with Sanitary Focus)", "Design Engineer (Water/Wastewater)", "Construction Engineer/Manager"]
+    },
+    {
+      "course": "Hydraulics",
+      "careers": ["Civil Engineer (with Sanitary Focus)", "Design Engineer (Water/Wastewater)", "Water/Wastewater Treatment Plant Engineer"]
+    },
+    {
+      "course": "Geotechnical Engineering 1 (Soil Mechanics)",
+      "careers": ["Civil Engineer (with Sanitary Focus)", "Geotechnical Engineer 1 (Soil Mechanics)", "Environmental Engineer"]
+    },
+    {
+      "course": "Engineering Economics",
+      "careers": ["Project Engineer", "Engineering Management", "Environmental Consultant"]
+    },
+    {
+      "course": "Engineering Management",
+      "careers": ["Engineering Management", "Project Engineer", "Construction Engineer/Manager", "Technopreneur/Startup Founder"]
+    },
+    {
+      "course": "Research Methods",
+      "careers": ["Research Engineer", "Environmental Scientist", "Environmental Consultant"]
+    },
+    {
+      "course": "Public Health Engineering",
+      "careers": ["Public Health Engineer", "Sanitary Engineer", "Environmental Engineer"]
+    },
+    {
+      "course": "Construction Materials and Testing",
+      "careers": ["Construction Engineer/Manager", "Civil Engineer (with Sanitary Focus)", "Design Engineer (Water/Wastewater)"]
+    },
+    {
+      "course": "Principles of Reinforced/Prestressed Concrete Design",
+      "careers": ["Civil Engineer (with Sanitary Focus)", "Design Engineer (Water/Wastewater)", "Construction Engineer/Manager"]
+    },
+    {
+      "course": "Basic Occupational Safety and Health",
+      "careers": ["Environmental Health and Safety (EHS) Specialist", "Construction Engineer/Manager", "Environmental Consultant"]
+    },
+    {
+      "course": "Water Supply Planning and Development",
+      "careers": ["Sanitary Engineer", "Water/Wastewater Treatment Plant Engineer", "Environmental Engineer"]
+    },
+    {
+      "course": "Sewerage and Urban Drainage",
+      "careers": ["Sanitary Engineer", "Drainage Engineer", "Civil Engineer (with Sanitary Focus)"]
+    },
+    {
+      "course": "Sewage and Industrial Wastewater Treatment",
+      "careers": ["Water/Wastewater Treatment Plant Engineer", "Sanitary Engineer", "Environmental Engineer"]
+    },
+    {
+      "course": "Environmental Planning, Laws and Impact Assessment",
+      "careers": ["Environmental Consultant", "Environmental Engineer", "Environmental Compliance Officer"]
+    },
+    {
+      "course": "Solid and Hazardous Waste Engineering",
+      "careers": ["Solid Waste Management Engineer", "Environmental Engineer", "Environmental Consultant"]
+    },
+    {
+      "course": "Computer Programming 2",
+      "careers": ["Design Engineer (Water/Wastewater)", "Environmental Consultant", "Research Engineer"]
+    }
+  ]
+}

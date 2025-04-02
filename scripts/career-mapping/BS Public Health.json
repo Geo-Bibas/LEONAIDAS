@@ -1,0 +1,217 @@
+{
+  "program": "BS Public Health",
+  "courses": [
+    {
+      "course": "Anatomy, Physiology and Pathophysiology",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Public Health Educator/Specialist", "Occupational Health and Safety Specialist", "Clinical Research Coordinator"]
+    },
+    {
+      "course": "Anatomy, Physiology and Pathophysiology (Laboratory)",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Clinical Research Coordinator", "Infection Control Specialist"]
+    },
+    {
+      "course": "Inorganic and Organic Chemistry",
+      "careers": ["Environmental Health Specialist/Sanitarian", "Occupational Health and Safety Specialist", "Medical Laboratory Scientist/Medical Technologist"]
+    },
+    {
+      "course": "Inorganic and Organic Chemistry (Laboratory)",
+      "careers": ["Environmental Health Specialist/Sanitarian", "Occupational Health and Safety Specialist", "Medical Laboratory Scientist/Medical Technologist"]
+    },
+    {
+      "course": "Introduction to Public Health",
+      "careers": ["Public Health Educator/Specialist", "Health Program Manager", "Health Policy Analyst", "Community Health Worker", "Global Health Specialist"]
+    },
+    {
+      "course": "Health Promotion",
+      "careers": ["Public Health Educator/Specialist", "Health Promotion Specialist", "Community Health Worker", "Public Health Nutritionist/Dietitian"]
+    },
+    {
+      "course": "Analytical Chemistry",
+      "careers": ["Environmental Health Specialist/Sanitarian", "Medical Laboratory Scientist/Medical Technologist", "Occupational Health and Safety Specialist"]
+    },
+    {
+      "course": "Analytical Chemistry (Laboratory)",
+      "careers": ["Environmental Health Specialist/Sanitarian", "Medical Laboratory Scientist/Medical Technologist", "Occupational Health and Safety Specialist"]
+    },
+    {
+      "course": "Health Information Systems in Public Health",
+      "careers": ["Health Informatics Specialist", "Data Analyst (Public Health)", "Health Information Manager", "Health Services Manager/Healthcare Administrator"]
+    },
+    {
+      "course": "Health Information Systems in Public Health (Laboratory)",
+      "careers": ["Health Informatics Specialist", "Data Analyst (Public Health)", "Health Information Manager"]
+    },
+    {
+      "course": "Community and Public Health for Medical Laboratory Science",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Public Health Educator/Specialist", "Community Health Worker", "Infection Control Specialist"]
+    },
+    {
+      "course": "Competency Appraisal 1",
+      "careers": ["Public Health Educator/Specialist", "Health Program Manager", "Health Services Manager/Healthcare Administrator"]
+    },
+    {
+      "course": "Public Health Research: Pre-Oral Defense",
+      "careers": ["Public Health Researcher", "Epidemiologist", "Biostatistician", "Health Policy Analyst"]
+    },
+    {
+      "course": "Crisis Communications",
+      "careers": ["Public Health Educator/Specialist", "Disaster Management Specialist", "Emergency Preparedness Coordinator"]
+    },
+    {
+      "course": "Intensive Public Health Practicum in Hospital and Corporate Settings",
+      "careers": ["Health Services Manager/Healthcare Administrator", "Occupational Health and Safety Specialist", "Infection Control Specialist", "Clinical Research Coordinator", "Health Information Manager"]
+    },
+    {
+      "course": "Competency Appraisal 2",
+      "careers": ["Health Program Manager", "Health Services Manager/Healthcare Administrator", "Public Health Educator/Specialist"]
+    },
+    {
+      "course": "Public Health Research: Final Defense",
+      "careers": ["Public Health Researcher", "Epidemiologist", "Biostatistician", "Health Policy Analyst"]
+    },
+    {
+      "course": "Leadership and Strategic Planning in Public Health",
+      "careers": ["Health Program Manager", "Health Services Manager/Healthcare Administrator", "Health Policy Analyst"]
+    },
+    {
+      "course": "Intensive Public Health Practicum in Community Setting",
+      "careers": ["Community Health Worker", "Public Health Educator/Specialist", "Health Promotion Specialist", "Environmental Health Specialist/Sanitarian"]
+    },
+    {
+      "course": "Biochemistry for Medical Laboratory Science",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Clinical Research Coordinator", "Pharmaceutical Sales Representative"]
+    },
+    {
+      "course": "Biochemistry for Medical Laboratory Science (Laboratory)",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Clinical Research Coordinator"]
+    },
+    {
+      "course": "Biostatics and Epidemiology",
+      "careers": ["Epidemiologist", "Biostatistician", "Public Health Researcher", "Data Analyst (Public Health)"]
+    },
+    {
+      "course": "Principles and Strategies of Teaching for Medical Laboratory Science",
+      "careers": ["Public Health Educator/Specialist", "Medical Laboratory Scientist/Medical Technologist"]
+    },
+    {
+      "course": "Health Policies",
+      "careers": ["Health Policy Analyst", "Health Program Manager", "Health Services Manager/Healthcare Administrator"]
+    },
+    {
+      "course": "Health Services Management",
+      "careers": ["Health Services Manager/Healthcare Administrator", "Health Program Manager", "Health Informatics Specialist"]
+    },
+    {
+      "course": "Clinical Parasitology",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Public Health Researcher", "Infection Control Specialist"]
+    },
+    {
+      "course": "Clinical Parasitology (Laboratory)",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Infection Control Specialist"]
+    },
+    {
+      "course": "Histology",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Clinical Research Coordinator"]
+    },
+    {
+      "course": "Histology (Laboratory)",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Clinical Research Coordinator"]
+    },
+    {
+      "course": "Cytogenetics",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Clinical Research Coordinator", "Public Health Researcher"]
+    },
+    {
+      "course": "Public Health Nutrition",
+      "careers": ["Public Health Nutritionist/Dietitian", "Public Health Educator/Specialist", "Community Health Worker"]
+    },
+    {
+      "course": "Environmental Health and Sanitation",
+      "careers": ["Environmental Health Specialist/Sanitarian", "Occupational Health and Safety Specialist", "Public Health Educator/Specialist"]
+    },
+    {
+      "course": "General Pathology",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Clinical Research Coordinator", "Infection Control Specialist"]
+    },
+    {
+      "course": "General Pathology (Laboratory)",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Clinical Research Coordinator", "Infection Control Specialist"]
+    },
+    {
+      "course": "Diagnostic Microbiology",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Infection Control Specialist", "Public Health Researcher"]
+    },
+    {
+      "course": "Diagnostic Microbiology (Laboratory)",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Infection Control Specialist"]
+    },
+    {
+      "course": "Clinical Chemistry",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Clinical Research Coordinator", "Pharmaceutical Sales Representative"]
+    },
+    {
+      "course": "Clinical Chemistry (Laboratory)",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Clinical Research Coordinator"]
+    },
+    {
+      "course": "Health Care in Emergencies and Rehabilitation",
+      "careers": ["Emergency Preparedness Coordinator", "Disaster Management Specialist", "Community Health Worker", "Public Health Educator/Specialist"]
+    },
+    {
+      "course": "Principles of Medical Laboratory Science Practice 1",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Infection Control Specialist", "Clinical Research Coordinator"]
+    },
+    {
+      "course": "Molecular Biology",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Public Health Researcher", "Clinical Research Coordinator"]
+    },
+    {
+      "course": "Molecular Biology (Laboratory)",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Public Health Researcher", "Clinical Research Coordinator"]
+    },
+    {
+      "course": "Basic Occupational Safety and Health",
+      "careers": ["Occupational Health and Safety Specialist", "Environmental Health Specialist/Sanitarian", "Health Program Manager"]
+    },
+    {
+      "course": "Disaster Risk Reduction and Climate Change Adaptation (DRR/CCA) Policy and Program Implementation",
+      "careers": ["Disaster Management Specialist", "Emergency Preparedness Coordinator", "Health Policy Analyst", "Environmental Health Specialist/Sanitarian"]
+    },
+    {
+      "course": "Public Health Law and Ethics",
+      "careers": ["Health Policy Analyst", "Public Health Ethics Specialist", "Health Program Manager"]
+    },
+    {
+      "course": "Trauma and Resilience",
+      "careers": ["Trauma Specialist/Resilience Coordinator", "Public Health Educator/Specialist", "Community Health Worker"]
+    },
+     {
+      "course": "Trauma and Resilience (Laboratory)",
+      "careers": ["Trauma Specialist/Resilience Coordinator", "Public Health Educator/Specialist", "Community Health Worker"]
+    },
+    {
+      "course": "Principles of Medical Laboratory Science Practice 2",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Infection Control Specialist", "Clinical Research Coordinator"]
+    },
+     {
+      "course": "Principles of Medical Laboratory Science Practice 2 (Laboratory)",
+      "careers": ["Medical Laboratory Scientist/Medical Technologist", "Infection Control Specialist", "Clinical Research Coordinator"]
+    },
+    {
+      "course": "Health Disparities and Minority Health",
+      "careers": ["Minority Health Specialist", "Public Health Educator/Specialist", "Community Health Worker", "Health Policy Analyst"]
+    },
+    {
+      "course": "Global Health Systems",
+      "careers": ["Global Health Specialist", "Health Policy Analyst", "Health Services Manager/Healthcare Administrator", "Health Program Manager"]
+    },
+    {
+      "course": "International Disaster and Global Humanitarianism",
+      "careers": ["Disaster Management Specialist", "Global Health Specialist", "Emergency Preparedness Coordinator"]
+    },
+    {
+      "course": "Disaster Mental Health: International and Domestic Perspective",
+      "careers": ["Trauma Specialist/Resilience Coordinator", "Disaster Management Specialist", "Community Health Worker"]
+    }
+  ]
+}

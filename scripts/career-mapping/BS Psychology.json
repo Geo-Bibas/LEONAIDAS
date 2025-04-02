@@ -1,0 +1,173 @@
+{
+  "program": "BS Psychology",
+  "courses": [
+    {
+      "course": "Introduction to Computer Science",
+      "careers": ["UX Researcher", "Market Research Analyst", "Technical Recruiter"]
+    },
+    {
+      "course": "Sikolohiyang Filipino",
+      "careers": ["Community Outreach Worker", "Social Worker", "Counselor"]
+    },
+    {
+      "course": "Psychometrics 2",
+      "careers": ["Psychometrician", "Research Psychologist", "Human Resources (HR) Specialist/Generalist"]
+    },
+    {
+      "course": "Social Psychology",
+      "careers": ["Human Resources (HR) Specialist/Generalist", "Community Outreach Worker", "Market Research Analyst", "Organizational Development Consultant", "Counselor"]
+    },
+    {
+      "course": "Career Guidance and Development",
+      "careers": ["Counselor", "Human Resources (HR) Specialist/Generalist", "School Psychologist"]
+    },
+    {
+      "course": "Fundamentals of Biology",
+      "careers": ["Physiological/Biological Psychologist", "Research Psychologist", "Clinical Psychologist"]
+    },
+    {
+      "course": "General Chemistry",
+      "careers": ["Physiological/Biological Psychologist", "Research Psychologist", "Clinical Psychologist"]
+    },
+    {
+      "course": "Theories of Personality",
+      "careers": ["Clinical Psychologist", "Counselor", "Social Worker"]
+    },
+    {
+      "course": "General Zoology",
+      "careers": ["Physiological/Biological Psychologist", "Research Psychologist"]
+    },
+    {
+      "course": "Computer Applications",
+      "careers": ["UX Researcher", "Market Research Analyst", "Technical Recruiter"]
+    },
+    {
+      "course": "Industrial Psychology",
+      "careers": ["Human Resources (HR) Specialist/Generalist", "Training and Development Specialist", "Organizational Development Consultant"]
+    },
+    {
+      "course": "Developmental Psychology",
+      "careers": ["School Psychologist", "Counselor", "Social Worker", "Community Outreach Worker"]
+    },
+    {
+      "course": "Fundamentals of Statistics",
+      "careers": ["Research Psychologist", "Psychometrician", "Market Research Analyst"]
+    },
+    {
+      "course": "Fundamentals of Organic Chemistry",
+      "careers": ["Physiological/Biological Psychologist", "Research Psychologist", "Clinical Psychologist"]
+    },
+    {
+      "course": "Human Behavior in Organization",
+      "careers": ["Human Resources (HR) Specialist/Generalist", "Training and Development Specialist", "Organizational Development Consultant"]
+    },
+    {
+      "course": "Basic Guidance and Counseling",
+      "careers": ["Counselor", "School Psychologist", "Social Worker"]
+    },
+    {
+      "course": "Mental Hygiene with Current Issues",
+      "careers": ["Clinical Psychologist", "Counselor", "Social Worker", "School Psychologist"]
+    },
+    {
+      "course": "Group Dynamics",
+      "careers": ["Counselor", "Training and Development Specialist", "Organizational Development Consultant"]
+    },
+    {
+      "course": "Physiological Psychology",
+      "careers": ["Clinical Psychologist", "Research Psychologist", "Physiological/Biological Psychologist"]
+    },
+    {
+      "course": "Psychometrics 1",
+      "careers": ["Psychometrician", "Research Psychologist", "Human Resources (HR) Specialist/Generalist"]
+    },
+    {
+      "course": "Psychological Statistics",
+      "careers": ["Research Psychologist", "Psychometrician", "Market Research Analyst"]
+    },
+    {
+      "course": "Computer Programming with Visual Basic",
+      "careers": ["UX Researcher", "Market Research Analyst", "Technical Recruiter"]
+    },
+    {
+      "course": "Human Resource Management",
+      "careers": ["Human Resources (HR) Specialist/Generalist", "Training and Development Specialist", "Organizational Development Consultant"]
+    },
+    {
+      "course": "Experimental Psychology",
+      "careers": ["Research Psychologist", "Psychometrician", "Market Research Analyst"]
+    },
+    {
+      "course": "Abnormal Psychology",
+      "careers": ["Clinical Psychologist", "Social Worker", "School Psychologist", "Corrections Officer/Probation Officer"]
+    },
+    {
+      "course": "Gender and Development",
+      "careers": ["Social Worker", "Community Outreach Worker", "Counselor"]
+    },
+    {
+      "course": "Introduction to Psychology",
+      "careers": ["Clinical Psychologist", "Counselor", "Human Resources (HR) Specialist/Generalist"]
+    },
+    {
+      "course": "Research in Psychology 2",
+      "careers": ["Research Psychologist", "Psychometrician", "Market Research Analyst"]
+    },
+    {
+      "course": "General Zoology (Laboratory)",
+      "careers": ["Physiological/Biological Psychologist", "Research Psychologist"]
+    },
+    {
+      "course": "Fundamentals of Biology (Laboratory)",
+      "careers": ["Physiological/Biological Psychologist", "Research Psychologist", "Clinical Psychologist"]
+},
+    {
+      "course": "Physiological/Biological Psychology",
+      "careers": ["Clinical Psychologist", "Research Psychologist", "Physiological/Biological Psychologist"]
+    },
+    {
+      "course": "Cognitive Psychology",
+      "careers": ["Research Psychologist", "UX Researcher", "Market Research Analyst"]
+    },
+    {
+      "course": "Psychological Assessment",
+      "careers": ["Psychometrician", "Clinical Psychologist", "School Psychologist"]
+    },
+    {
+      "course": "Culture and Psychology",
+      "careers": ["Social Worker", "Community Outreach Worker", "Counselor"]
+    },
+    {
+      "course": "Disaster and Mental Health",
+      "careers": ["Social Worker", "Community Outreach Worker", "Counselor"]
+    },
+    {
+      "course": "Fundamentals of Chemistry (Laboratory)",
+      "careers": ["Physiological/Biological Psychologist", "Research Psychologist", "Clinical Psychologist"]
+    },
+    {
+      "course": "Human Resource Management with Labor Relations",
+      "careers": ["Human Resources (HR) Specialist/Generalist", "Organizational Development Consultant", "Training and Development Specialist"]
+    },
+    {
+      "course": "Industrial/Organizational Psychology",
+      "careers": ["Human Resources (HR) Specialist/Generalist", "Organizational Development Consultant", "Training and Development Specialist"]
+    },
+    {
+     "course": "Biochemistry",
+      "careers": ["Physiological/Biological Psychologist", "Research Psychologist", "Clinical Psychologist"]
+    },
+    {
+      "course": "Biochemistry (Laboratory)",
+      "careers": ["Physiological/Biological Psychologist", "Research Psychologist", "Clinical Psychologist"]
+    },
+    {
+      "course": "Field Methods in Psychology",
+      "careers": ["Research Psychologist", "Community Outreach Worker", "Social Worker"]
+    },
+    {
+      "course": "Clinical Psychology",
+      "careers": ["Clinical Psychologist", "Counselor", "Social Worker"]
+    }
+  ]
+}

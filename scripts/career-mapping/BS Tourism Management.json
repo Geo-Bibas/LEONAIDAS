@@ -1,0 +1,153 @@
+{
+  "program": "BS Tourism Management",
+  "courses": [
+    {
+      "course": "Housekeeping Operations",
+      "careers": ["Housekeeping Manager", "Hotel/Resort Management", "Hotel/Resort General Manager (with experience)", "Operations Manager"]
+    },
+    {
+      "course": "Housekeeping Operations (Laboratory)",
+      "careers": ["Housekeeping Manager", "Hotel/Resort Management", "Operations Manager"]
+    },
+    {
+      "course": "Macro Perspective of Tourism and Hospitality",
+      "careers": ["Tourism Officer (Government/Local)", "Destination Marketing Organization (DMO) Staff", "Tourism Consultant", "Tourism Development Specialist", "Market Research Analyst"]
+    },
+    {
+      "course": "Risk Management as Applied to Safety, Security and Sanitation",
+      "careers": ["Risk Management Specialist", "Hotel/Resort Management", "Cruise Director", "Operations Manager"]
+    },
+    {
+      "course": "Quality Service Management in Tourism and Hospitality",
+      "careers": ["Quality Assurance Manager", "Hotel/Resort Management", "Restaurant Manager", "Convention Services Manager"]
+    },
+    {
+      "course": "Philippine Culture and Tourism Geography",
+      "careers": ["Tour Guide (Specialized: historical, cultural, adventure, etc.)", "Tourism Officer (Government/Local)", "Cultural Heritage Interpreter", "Destination Marketing Organization (DMO) Staff", "Travel Writer/Blogger"]
+    },
+    {
+      "course": "Global Culture and Tourism Geography",
+      "careers": ["Tour Guide (Specialized: historical, cultural, adventure, etc.)", "Tourism Officer (Government/Local)", "Destination Marketing Organization (DMO) Staff", "Travel Writer/Blogger"]
+    },
+    {
+      "course": "Front Office Operations",
+      "careers": ["Front Office Manager/Associate", "Guest Relations Manager", "Hotel/Resort Management", "Hotel/Resort General Manager (with experience)"]
+    },
+    {
+      "course": "Front Office Operations (Laboratory)",
+      "careers": ["Front Office Manager/Associate", "Guest Relations Manager", "Hotel/Resort Management"]
+    },
+    {
+      "course": "Micro Perspective of Tourism and Hospitality",
+      "careers": ["Hotel/Resort Management", "Restaurant Manager", "Tour Operations Manager", "Travel Agency Manager", "Cruise Director"]
+    },
+    {
+      "course": "Tour and Travel Management",
+      "careers": ["Tour Coordinator/Planner", "Tour Operations Manager", "Travel Agent", "Travel Consultant", "Entrepreneur"]
+    },
+    {
+      "course": "Tour Guiding",
+      "careers": ["Tour Guide (Specialized: historical, cultural, adventure, etc.)", "Cultural Heritage Interpreter", "Ecotourism Guide/Specialist", "Tourism Information Officer", "Travel Writer/Blogger"]
+    },
+    {
+      "course": "Entrepreneurship in Tourism and Hospitality",
+      "careers": ["Entrepreneur", "Hotel/Resort Management", "Restaurant Manager", "Tour Operations Manager", "Event Planner/Coordinator"]
+    },
+    {
+      "course": "Transportation Management",
+      "careers": ["Transportation Manager (for hotels, resorts, tour companies)", "Logistics Coordinator (related to travel and tourism)", "Tour Coordinator/Planner", "Travel Agent"]
+    },
+    {
+      "course": "Cruise Tourism",
+      "careers": ["Cruise Staff (various roles in hospitality, entertainment, excursions)", "Cruise Director", "Tour Coordinator/Planner", "Travel Agent"]
+    },
+    {
+      "course": "Food and Beverage Services",
+      "careers": ["Restaurant Manager", "Bar Manager", "Catering Manager", "Food and Beverage Director", "Sommelier"]
+    },
+    {
+      "course": "Food and Beverage Services (Laboratory)",
+      "careers": ["Restaurant Manager", "Bar Manager", "Catering Manager"]
+    },
+    {
+      "course": "Culinary Fundamentals",
+      "careers": ["Restaurant Manager", "Catering Manager", "Food and Beverage Director", "Entrepreneur"]
+    },
+    {
+      "course": "Culinary Fundamentals (Laboratory)",
+      "careers": ["Restaurant Manager", "Catering Manager", "Entrepreneur"]
+    },
+    {
+      "course": "Sustainable Tourism",
+      "careers": ["Ecotourism Guide/Specialist", "Tourism Development Specialist", "Tourism Officer (Government/Local)", "Park Ranger/Naturalist", "Sustainable Tourism Coordinator"]
+    },
+    {
+      "course": "Legal Aspects in Tourism and Hospitality",
+      "careers": ["Legal Compliance Officer", "Hotel/Resort Management", "Tourism Consultant", "Operations Manager"]
+    },
+    {
+      "course": "Foreign Language 1",
+      "careers": ["Tour Guide (Specialized: historical, cultural, adventure, etc.)", "Guest Relations Manager", "Travel Agent", "Tourism Information Officer"]
+    },
+    {
+      "course": "Introduction to MICE",
+      "careers": ["Event Planner/Coordinator", "Meeting Planner", "Convention Services Manager", "Exhibition Manager", "Venue Manager"]
+    },
+    {
+      "course": "Introduction to MICE (Laboratory)",
+      "careers": ["Event Planner/Coordinator", "Meeting Planner", "Convention Services Manager"]
+    },
+    {
+      "course": "Tourism Policy Planning and Development",
+      "careers": ["Tourism Officer (Government/Local)", "Tourism Development Specialist", "Tourism Consultant", "Market Research Analyst"]
+    },
+    {
+      "course": "Applied Business Tools and Technologies in Tourism",
+      "careers": ["Technology Specialist", "Hotel/Resort Management", "Revenue Manager", "Market Research Analyst"]
+    },
+    {
+      "course": "Applied Business Tools and Technologies in Tourism (Laboratory)",
+      "careers": ["Technology Specialist", "Hotel/Resort Management"]
+    },
+    {
+      "course": "Ecotourism Management",
+      "careers": ["Ecotourism Guide/Specialist", "Park Ranger/Naturalist", "Tourism Officer (Government/Local)", "Sustainable Tourism Coordinator", "Tour Guide (Specialized: historical, cultural, adventure, etc.)"]
+    },
+    {
+      "course": "Strategic Management in Tourism and Hospitality",
+      "careers": ["Hotel/Resort General Manager (with experience)", "Tourism Consultant", "Operations Manager", "Entrepreneur"]
+    },
+    {
+      "course": "Professional Development and Applied Ethics",
+      "careers": ["Human Resources Manager (in Tourism & Hospitality)", "Hotel/Resort Management", "Tourism Consultant", "Quality Assurance Manager"]
+    },
+    {
+      "course": "Tourism and Hospitality Marketing",
+      "careers": ["Sales and Marketing Manager", "Destination Marketing Organization (DMO) Staff", "Revenue Manager", "Market Research Analyst", "Entrepreneur"]
+    },
+    {
+      "course": "Multicultural Diversity in Workplace for the Tourism Professionals",
+      "careers": ["Multicultural Trainer/Consultant", "Human Resources Manager (in Tourism & Hospitality)", "Guest Relations Manager", "Hotel/Resort Management"]
+    },
+    {
+      "course": "Foreign Language 2",
+      "careers": ["Tour Guide (Specialized: historical, cultural, adventure, etc.)", "Guest Relations Manager", "Travel Agent", "Tourism Information Officer"]
+    },
+    {
+      "course": "Operations Management in Tourism and Hospitality Industry",
+      "careers": ["Operations Manager", "Hotel/Resort Management", "Restaurant Manager", "Event Planner/Coordinator"]
+    },
+    {
+      "course": "Research Methods Applied in Tourism Management",
+      "careers": ["Tourism Researcher", "Market Research Analyst", "Tourism Consultant", "Tourism Officer (Government/Local)"]
+    },
+    {
+      "course": "Tourism Information Management",
+      "careers": ["Tourism Information Officer", "Travel Agent", "Technology Specialist", "Destination Marketing Organization (DMO) Staff"]
+    },
+    {
+      "course": "Tourism Information Management (Laboratory)",
+      "careers": ["Tourism Information Officer", "Travel Agent", "Technology Specialist"]
+    }
+  ]
+}

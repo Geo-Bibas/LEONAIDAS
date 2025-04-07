@@ -131,3 +131,6 @@ start_sem = len(known_gwas) + 1
 print("\nUpcoming Semesters Prediction Summary:")
 for idx, pred in enumerate(predictions, start=start_sem):
     print(f"  Semester {idx}: Predicted GWA: {pred:.2f}")
+
+print("\nModel evaluation on the training data:")
+model.evaluate(known_gwas, program_id, test_size=0.2)
